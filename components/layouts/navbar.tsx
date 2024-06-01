@@ -151,7 +151,7 @@ const Navbar = async () => {
                         className="hover:bg-accent px-2 py-1.5 rounded-md"
                         aria-label="Bokep Satset"
                     	>
-                        Bocil Ngentot.com
+                        Bocil Ngentot
                     	</Link>
                     <NavMenu folders={folders}></NavMenu>
                 </div>
