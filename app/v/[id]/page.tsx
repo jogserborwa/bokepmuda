@@ -164,7 +164,7 @@ export default async function Video({ params }: PageProps) {
             <Card className="mx-2 mb-8">
                 <CardHeader>
                     <CardTitle className="text-xl md:text-3xl font-bold">
-                        Bokep {file.title}
+                        {file.title}
                     </CardTitle>
                 </CardHeader>
 		<CardContent><center><Script
